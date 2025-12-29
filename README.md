@@ -16,3 +16,6 @@ Enter weight in kilograms and convert it into:
 ## How to Run
 1️⃣ Install Python  
 2️⃣ Install requirements
+
+## 🖼 Application Screenshot
+![Application Screenshot](screenshot.png)
