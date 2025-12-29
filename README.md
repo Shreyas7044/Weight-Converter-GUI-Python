@@ -18,4 +18,4 @@ Enter weight in kilograms and convert it into:
 2️⃣ Install requirements
 
 ## 🖼 Application Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Weight-Converter-GUI-Python/screenshot.png/screenshot.png)
